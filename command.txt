@@ -1,0 +1,12 @@
+linux basic commands
+   commands    work
+1:  ls         list directory contents
+2:  cd         change directory
+3:  pwd        print working directory
+4:  mkdir      make directory
+5:  rm         remove files
+6:  rmdir      remove directory
+7:  cat        display file contents
+8:  touch      create empty file
+9:  head       show first 10 lines of a file
+10: tail       show last 10 lines of a file
