@@ -1,0 +1,15 @@
+          linux basics commands 11-20
+   
+   commands     work
+
+
+11: less         view large file page by page
+12: more         view large file page by page
+13: cp           copy file and directories
+14: mv           move or rename files
+15: wc           word count
+16: vim          text editor
+17: cut          files cut
+18: diff         check diffrence two files
+19: clear        clean terminal
+20: history      check commands history      
