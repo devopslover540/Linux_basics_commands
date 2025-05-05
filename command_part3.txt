@@ -1,0 +1,20 @@
+        linux basic commands 21-30
+
+   commands   work
+21: SSh       secure shell(login related command)
+
+22: df       disk free (check disk spaces)
+
+23: du       disk usage (check directry spaces)
+
+24: ps       process status(check process status)
+
+25: top      all process(check all process)
+
+26: kill     delete process
+
+27: free     check RAM status (usage,free,total)
+
+29: date     check date
+
+30: who      check all login users details   
