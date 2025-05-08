@@ -1,0 +1,25 @@
+          
+          linux basic commands 31-40
+ 
+             (System level commands)
+
+    commands     work
+31: uptime      check system when usage  
+
+32: id           check GID or UID of cruent user
+
+33: sudo         adminstrator root
+
+34: shutdown     using system power off
+
+35: reboot       using system restart
+
+36: which        find file or directory location
+
+37: uname        check oprating system details
+
+38: whoami       check cruent login username
+
+39: date         check date
+       
+40: clear        using clean terminal       
