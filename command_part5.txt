@@ -1,0 +1,22 @@
+      linux applications pkg menager commands
+                     (41-50)
+   commands            work
+41:sudo apt update	Updates the package list (                       for Debian/Ubuntu systems)
+42:sudo apt upgrade	Upgrades all installed pac                    pkages to their latest version
+
+43:sudo apt install <package>	Installs a new pac                 kage (e.g., sudo apt install git)
+
+44:sudo apt remove <package>	Removes an install                                ed package
+
+45:sudo apt purge <package>	Removes a package                 along with its configuration files
+
+46:sudo yum install <package>	Installs a package                         (for RHEL/CentOS systems)
+
+47:sudo yum update	Updates all installed pack                        ages (YUM-based systems)
+
+48:sudo dnf install <package>	Installs a package                    (for Fedora/DNF-based systems)
+
+49:sudo pacman -S <package>	Installs a package                          (for Arch Linux systems)
+
+50:sudo zypper install <package>	Installs a                    package (for openSUSE systems)
+
