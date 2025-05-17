@@ -10,3 +10,5 @@ linux basic commands
 8:  touch      create empty file
 9:  head       show first 10 lines of a file
 10: tail       show last 10 lines of a file
+
+this is new changes
